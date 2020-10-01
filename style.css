@@ -46,6 +46,11 @@ h1 {
     line-height: 1.2;
     color: #000;
 }
+.h1 hover {
+	color:	#FFFF00!important;
+  font-weight: bold;
+  text-decoration: underline;
+}
 h2 {
     font-size: 25px;
     padding: 10px 0 5px 20px;
